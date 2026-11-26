@@ -4,7 +4,7 @@
   "description": "Mirror your iPhone or iPad screen to Chromecast, Google TV or Fire TV with audio, no cables or Apple TV needed",
   "category": "utilities",
   "platforms": ["ios", "ipad"],
-  "deal": "60% off Yearly ($19.99 → $7.99), 53% off Lifetime ($29.99 → $13.99)",
+  "deal": "60% off first year of Yearly ($19.99 → $7.99), 53% off Lifetime ($29.99 → $13.99)",
   "pricing": "subscription",
   "price": { "regular": 19.99, "sale": 7.99, "currency": "USD" },
   "discount": 60,
