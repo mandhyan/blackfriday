@@ -4,7 +4,7 @@
   "description": "Merge photos, scans and PDFs into one PDF on your iPhone, processed on device with no account or upload",
   "category": "productivity",
   "platforms": ["ios"],
-  "deal": "80% off Yearly, applied automatically in the app",
+  "deal": "80% off the first year of Yearly, applied automatically in the app",
   "pricing": "subscription",
   "price": { "regular": 49.99, "sale": 10, "currency": "USD" },
   "discount": 80,
